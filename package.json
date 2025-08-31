@@ -1,0 +1,8 @@
+{
+  "name": "flag-explorer",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ]
+}
